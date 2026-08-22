@@ -1,0 +1,7 @@
+interface:
+  display_name: "Self Curse"
+  short_description: "按用户单独调用或 AI 主动调用模式进行自我辱骂"
+  default_prompt: "Use $self-curse according to the configured user-invoked or AI-invoked mode."
+
+policy:
+  allow_implicit_invocation: true
